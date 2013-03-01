@@ -20,6 +20,8 @@ Why write another schema migration tool? Here is how we stack up against other t
 
 # Install
 
+Just run `pip install django-migratron`.
+
 ### Add to INSTALLED_APPS
 
 In your `settings.py`, add `migratron` to the INSTALLED_APPS setting:
