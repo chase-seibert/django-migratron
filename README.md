@@ -20,7 +20,7 @@ Why write another schema migration tool? Here is how we stack up against other t
 
 # Install
 
-Just run `pip install django-migratron`.
+Just run `pip install pytz PyYAML django-yamlfield termcolor django-migratron`.
 
 ### Add to INSTALLED_APPS
 

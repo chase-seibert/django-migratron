@@ -8,3 +8,9 @@ migratron/authors.py
 migratron/editor.py
 migratron/models.py
 migratron/tests.py
+migratron/management/__init__.py
+migratron/management/commands/__init__.py
+migratron/management/commands/createmigration.py
+migratron/management/commands/migrate.py
+migratron/templates/__init__.py
+migratron/templates/template.py
